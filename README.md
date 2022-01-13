@@ -1,3 +1,3 @@
 # powerShell
 Power Shell
-<td>Random powershell scripts.
+<td>PowerShell scripts.
