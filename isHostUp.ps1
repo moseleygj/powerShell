@@ -5,12 +5,12 @@ foreach ($name in $names){
     Write-Host "$name, UP" -foregroundcolor green -backgroundcolor black
     Write-Host "----------------------------"
     Write-Host "                            "
-    #make file with list of computer that work in .txt
+    	#Make file with list of computer that work in .txt
   }
   else{
     Write-Host "$name, DOWN" -foregroundcolor red -backgroundcolor black
     Write-Host "----------------------------"
     Write-Host "                            "
-        #make file with list of computer that work in .txt
+        #Make file with list of computer that work in .txt
   }
 }
